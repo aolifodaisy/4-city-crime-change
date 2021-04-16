@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: "About"
 permalink: /https://aolifodaisy.github.io/comparecrimechange.github.io/About/
 ---
 
