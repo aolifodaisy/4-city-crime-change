@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+permalink: /https://aolifodaisy.github.io/comparecrimechange.github.io/About/
 ---
 
 ## This is the project page on "Covid-19 Impacts on Crime Changes in 4 Cities in 2020"
