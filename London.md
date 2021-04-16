@@ -1,4 +1,5 @@
 ---
 layout: home
-title: London
+title: "London"
+permalink: /https://aolifodaisy.github.io/comparecrimechange.github.io/London/
 ---
