@@ -1,3 +1,8 @@
+---
+layout: home
+title: About
+---
+
 ## This is the project page on "Covid-19 Impacts on Crime Changes in 4 Cities in 2020"
 
 The global spread of the COVID-19 pandemic has outlined an unprecedented situation in most countries, especially in so-called global cities, hence posing increased challenges to crime prevention strategies and the criminal justice systems across the world. This study will undertake an intensive comparative study, using 4 selected global financial centres **Hong Kong, London, Sydney and New York**, on the variations in trends for different types of crime, in the spatio-temporal patterns of crime, to bring forward succinct suggestions on crime prevention strategies against the pandemic in global cities.
